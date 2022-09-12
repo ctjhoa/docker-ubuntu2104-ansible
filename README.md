@@ -1,9 +1,9 @@
-# Ubuntu 21.04 LTS (Hirsute Hippo) Ansible Test Image
+# Ubuntu 21.04 (Hirsute Hippo) Ansible Test Image
 
 [![Build Status](https://github.com/ctjhoa/docker-ubuntu2104-ansible/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/ctjhoa/docker-ubuntu2104-ansible/actions/workflows/main.yml)
 [![Docker Automated build](https://img.shields.io/docker/automated/ctjhoa/docker-ubuntu2104-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/ctjhoa/docker-ubuntu2104-ansible/)
 
-Ubuntu 21.04 LTS (Hirsute Hippo) Docker container for Ansible playbook and role testing.
+Ubuntu 21.04 (Hirsute Hippo) Docker container for Ansible playbook and role testing.
 It comes with an `ansible` user with sudo privileged.
 
 ## Tags
